@@ -5,13 +5,13 @@
 </p>
 
 #
-### SOBRE
+### 📚 SOBRE
 
 - Diretório contendo desenvolvimento de projetos em Spring, com o intuito de práticar e consolidar o conhecimento, objetivando o dominio das ferramentas do ecossistema.
 - Além de obter o contexto do curso, grande parte das aplicações desenvolvidas possuem alterações na codificação, arquitetura e funcionamento, baseadas em conhecimentos anteriores, objetivando melhores praticas. 
 
 #
-### CURSOS
+### ⭐ CURSOS
 
 - *Spring-With-GraphQL*:
   - https://www.youtube.com/watch?v=SPu77SaK-Hk&t  
@@ -27,7 +27,7 @@
   - https://www.youtube.com/playlist?list=PLTN1gMq8EHuIpxyecEp04TvLr3TQbzMRL  
 
 #
-### TECNOLOGIAS
+### 💻 TECNOLOGIAS
 
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=white&labelColor=0D1117)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&logoColor=107C10&labelColor=0D1117)&nbsp;
